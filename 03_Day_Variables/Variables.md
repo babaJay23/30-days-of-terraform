@@ -70,11 +70,3 @@ Click [here](./02_Day_Terraform_Syntax/02_day_terraform_syntax.md) to return to 
 Click [here](./04_Day_Resources_Data_Sources/04_day_resources_data_sources.md) to move on to Day 4 and learn about working with resources and data sources.
 
 Happy coding! 🚀
-
-<small>Author: [Your Name]</small>
-
-<div>
-  <small>Support the author by giving a star on the [GitHub repository](https://github.com/yourusername/30-days-of-terraform)</small> <br />  
-  [![Paypal Logo](./images/paypal_lg.png)](https://www.paypal.me/yourusername)
-</div>
-```
