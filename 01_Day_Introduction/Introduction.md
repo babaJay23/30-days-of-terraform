@@ -48,3 +48,21 @@ provider "aws" {
 resource "aws_s3_bucket" "my_bucket" {
   bucket = "my-unique-bucket-name"
 }
+
+Open a terminal or command prompt, navigate to your project directory, and run the following commands:
+
+```
+bash
+terraform init
+terraform apply
+```
+
+
+Conclusion
+In this lesson, you've been introduced to Terraform and its fundamental concepts. You learned what Terraform is, why it's valuable, and how to set it up on your machine. You also created a basic Terraform configuration to provision an AWS S3 bucket.
+
+Tomorrow, we'll delve deeper into Terraform syntax and explore how to define resources in more detail. Keep up the great work, and see you on Day 2!
+
+Remember, practice is key to mastering Terraform. Experiment with different configurations and explore the official Terraform documentation for more in-depth information.
+
+Happy coding! 🛠️😄
