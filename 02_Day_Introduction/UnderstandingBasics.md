@@ -67,6 +67,3 @@ In this lesson, you've explored declarative and imperative programming, Terrafor
 Remember, understanding Terraform's fundamental concepts and syntax is essential as you build your skills in Infrastructure as Code.
 
 Happy coding! 🛠️😄
-```
-
-Feel free to adjust and customize this content to suit your teaching style and the needs of your audience. This content provides an overview of declarative vs. imperative programming, Terraform syntax, variables, and data types.
