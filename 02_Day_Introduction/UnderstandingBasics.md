@@ -1,6 +1,3 @@
-Certainly! Here's the content for Day 2 of the "30 Days of Terraform" challenge, focusing on understanding Terraform basics:
-
-```markdown
 # Day 2: Understanding Terraform Basics
 
 Welcome to Day 2 of the **30 Days of Terraform** challenge! In this lesson, we will delve deeper into Terraform's foundational concepts and syntax, including declarative vs. imperative programming, configuration structure, variables, and data types.
