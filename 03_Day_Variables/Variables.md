@@ -1,4 +1,3 @@
-Of course! Here's more content for Day 3 of your 30 Days of Terraform challenge, provided in Markdown format:
 
 ```markdown
 # 30 Days of Terraform: Day 3
