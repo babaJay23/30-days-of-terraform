@@ -78,3 +78,23 @@ Congratulations on completing the **30 Days of Terraform** challenge! 🎉 You'v
 Remember, practice makes perfect. Keep experimenting with Terraform, building your own projects, and exploring advanced concepts to become a Terraform expert.
 
 Happy coding and automating! 😄🛠️
+
+
+# 30 Days of Terraform
+
+| Day | Topics |
+| --- | --- |
+| [Day 1](./01_Day_Introduction/Introduction.md) | [Introduction to Terraform](./01_Day_Introduction/Introduction.md) |
+| [Day 2](./02_Day_Terraform_Syntax/02_day_terraform_syntax.md) | [Terraform Syntax](./02_Day_Terraform_Syntax/02_day_terraform_syntax.md) |
+| [Day 3](./03_Day_Providers_Variables/03_day_providers_variables.md) | [Providers and Variables](./03_Day_Providers_Variables/03_day_providers_variables.md) |
+| [Day 4](./04_Day_Resources_Data_Sources/04_day_resources_data_sources.md) | [Resources and Data Sources](./04_Day_Resources_Data_Sources/04_day_resources_data_sources.md) |
+| [Day 5](./05_Day_Input_Output/05_day_input_output.md) | [Input and Output Variables](./05_Day_Input_Output/05_day_input_output.md) |
+| [Day 6](./06_Day_Loops_and_Conditionals/06_day_loops_and_conditionals.md) | [Loops and Conditionals](./06_Day_Loops_and_Conditionals/06_day_loops_and_conditionals.md) |
+| [Day 7](./07_Day_Modules/07_day_modules.md) | [Modules in Terraform](./07_Day_Modules/07_day_modules.md) |
+| [Day 8](./08_Day_Terraform_State/08_day_terraform_state.md) | [Terraform State](./08_Day_Terraform_State/08_day_terraform_state.md) |
+| [Day 9](./09_Day_Workspaces/09_day_workspaces.md) | [Terraform Workspaces](./09_Day_Workspaces/09_day_workspaces.md) |
+| [Day 10](./10_Day_Remote_State/10_day_remote_state.md) | [Remote State Management](./10_Day_Remote_State/10_day_remote_state.md) |
+| ... | ... |
+| [Day 30](./30_Day_Final_Project/30_day_final_project.md) | [Final Project and Recap](./30_Day_Final_Project/30_day_final_project.md) |
+
+Happy coding! 🚀
