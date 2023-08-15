@@ -1,5 +1,3 @@
-
-```markdown
 # 30 Days of Terraform: Day 3
 
 ## Providers and Variables
