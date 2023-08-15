@@ -48,11 +48,11 @@ provider "aws" {
 resource "aws_s3_bucket" "my_bucket" {
   bucket = "my-unique-bucket-name"
 }
+```
 
 Open a terminal or command prompt, navigate to your project directory, and run the following commands:
 
-```
-bash
+```bash
 terraform init
 terraform apply
 ```
