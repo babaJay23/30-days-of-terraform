@@ -1,0 +1,19 @@
+stages:
+  - validate
+  - deploy
+
+validate:
+  stage: validate
+  script:
+    - terraform init
+    - terraform validate
+  only:
+    - merge_requests
+
+deploy:
+  stage: deploy
+  script:
+    - terraform init
+    - terraform apply -auto-approve
+  only:
+    - master
