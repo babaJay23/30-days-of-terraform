@@ -1,3 +1,4 @@
+![Terraform Logo](./Terraform.png)
 # 30 Days of Terraform
 
 Welcome to the **30 Days of Terraform** challenge! This guide will take you through a month-long journey to learn and master the fundamentals of Terraform, a powerful Infrastructure as Code (IaC) tool.
