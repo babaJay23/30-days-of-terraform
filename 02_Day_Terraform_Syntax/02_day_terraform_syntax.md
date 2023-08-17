@@ -66,4 +66,5 @@ In this lesson, you've explored declarative and imperative programming, Terrafor
 
 Remember, understanding Terraform's fundamental concepts and syntax is essential as you build your skills in Infrastructure as Code.
 
+Click [here](../03_Day_Providers_Variables/03_day_providers_variables.md) to move on to Day 3 and learn about Providers and Variables.
 Happy coding! 🛠️😄

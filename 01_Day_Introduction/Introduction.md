@@ -66,3 +66,5 @@ Tomorrow, we'll delve deeper into Terraform syntax and explore how to define res
 Remember, practice is key to mastering Terraform. Experiment with different configurations and explore the official Terraform documentation for more in-depth information.
 
 Happy coding! 🛠️😄
+
+Click [here](../02_Day_Terraform_Syntax/02_day_terraform_syntax.md) to move on to Day 2 and learn about working Terraform Syntax.

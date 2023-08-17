@@ -67,6 +67,6 @@ Feel free to experiment and have fun exploring Terraform's capabilities with pro
 
 Click [here](./02_Day_Terraform_Syntax/02_day_terraform_syntax.md) to return to the previous day's lesson on Terraform syntax.
 
-Click [here](./04_Day_Resources_Data_Sources/04_day_resources_data_sources.md) to move on to Day 4 and learn about working with resources and data sources.
+Click [here](../04_Day_Resources_Data_Sources/04_day_resources_data_sources.md) to move on to Day 4 and learn about working with resources and data sources.
 
 Happy coding! 🚀
