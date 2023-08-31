@@ -49,4 +49,4 @@ Congratulations on taking the first step towards mastering Terraform! Remember, 
 Happy coding and automating! 🚀
 ```
 
-Feel free to replace the placeholder text with your actual content and adjust the paths as needed to match the file structure of your challenge materials.
+Enjoy and Have Fun
